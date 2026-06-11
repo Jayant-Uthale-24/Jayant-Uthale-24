@@ -1,34 +1,50 @@
-# Hi there, I'm Jayant 👋
+# Hi there, I'm Jayant Uthale 👋
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Role-Senior%20Full%20Stack%20Developer-blue?style=for-the-badge" alt="Role">
-  <img src="https://img.shields.io/badge/Focus-Performance%20%26%20Cloud-brightgreen?style=for-the-badge" alt="Focus">
+  <img src="https://img.shields.io/badge/Role-Senior%20Full%20Stack%20%26%20AI%20Engineer-blue?style=for-the-badge" alt="Role">
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%26%20Azure%20Expert-orange?style=for-the-badge" alt="Cloud">
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I am a Senior Full Stack Developer who turns complex problems into clean, performant web applications. I build digital experiences that are fast, accessible, and a joy to use.
+I am a **Senior Full-Stack Software Engineer** with over 5 years of experience building modern web applications, scalable cloud architectures, and production-grade AI-driven systems. I specialize in the MERN stack, robust cloud integrations, and orchestrating semantic search/LLM data pipelines.
 
-* 🏢 **Current Organization:** Software Engineer at [@kalpvruksh](https://github.com/kalpvruksh)
-* 🛠️ **What I Do:** Specialize in robust frontend architecture and seamless cloud integrations.
-* 💬 **Ask me about:** React ecosystem optimization, serverless setups, or Web Accessibility.
+* [cite_start]🏢 **Current Role:** Lead Software Developer [cite: 48]
+* [cite_start]🛠️ **Core Focus:** Building high-performance software and integrating generative AI tools into production ecosystems[cite: 3, 52].
+* [cite_start]🧠 **AI Expertise:** Architecting RAG (Retrieval-Augmented Generation) pipelines, handling vector databases, embedding pipelines, and semantic retrieval[cite: 20, 22, 24, 42].
 
 ---
 
 ### 💻 Tech Stack & Tools
 
-**Frontend & Frameworks** ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+**Frontend & Frameworks**
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
-**Backend & Runtimes** ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+**Backend, Runtimes & Databases**
+![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-**Cloud & Infrastructure** ![](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+**AI, Cloud & DevOps**
+![](https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🛠️ Key Architectural Focus Areas
+
+* [cite_start]🤖 **Generative AI & LLMs:** Designing retrieval + LLM orchestration pipelines, tuning chunking strategies, and deploying safe, vector-search models to minimize hallucinations[cite: 24, 25, 26].
+* [cite_start]☁️ **Cloud & Infrastructure:** Experienced with Azure App Services, Azure Functions, AWS infrastructure execution, and configuring CI/CD automation pipelines[cite: 16, 17, 33].
+* [cite_start]🛒 **E-Commerce & Ecosystems:** Designing custom modular feature extensions, payment gateways (Stripe), and complex integration ecosystems[cite: 10, 13, 16].
 
 ---
 
@@ -43,3 +59,4 @@ I am a Senior Full Stack Developer who turns complex problems into clean, perfor
 ### 📫 Let's Connect!
 
 * **LinkedIn:** [jayant-uthale-753545190](https://www.linkedin.com/in/jayant-uthale-753545190/)
+* **Email:** [jayantuthale24@gmail.com](mailto:jayantuthale24@gmail.com)
