@@ -1,7 +1,7 @@
 # Hi there, I'm Jayant 👋
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-blue?style=for-the-badge" alt="Role">
+  <img src="https://img.shields.io/badge/Role-Senior%20Full%20Stack%20Developer-blue?style=for-the-badge" alt="Role">
   <img src="https://img.shields.io/badge/Focus-Performance%20%26%20Cloud-brightgreen?style=for-the-badge" alt="Focus">
 </p>
 
@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-I am a developer who turns complex problems into clean, performant web applications. I build digital experiences that are fast, accessible, and a joy to use.
+I am a Senior Full Stack Developer who turns complex problems into clean, performant web applications. I build digital experiences that are fast, accessible, and a joy to use.
 
 * 🏢 **Current Organization:** Software Engineer at [@kalpvruksh](https://github.com/kalpvruksh)
 * 🛠️ **What I Do:** Specialize in robust frontend architecture and seamless cloud integrations.
