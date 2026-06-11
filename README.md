@@ -1,7 +1,7 @@
 # Hi there, I'm Jayant Uthale 👋
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Role-Senior%20Full%20Stack%20%26%20AI%20Engineer-blue?style=for-the-badge" alt="Role">
+  <img src="https://img.shields.io/badge/Role-Senior%20Full%20Stack%20Developer-blue?style=for-the-badge" alt="Role">
   <img src="https://img.shields.io/badge/Cloud-AWS%20%26%20Azure%20Expert-orange?style=for-the-badge" alt="Cloud">
 </p>
 
@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-I am a **Senior Full-Stack Software Engineer** with over 5 years of experience building modern web applications, scalable cloud architectures, and production-grade AI-driven systems. I specialize in the MERN stack, robust cloud integrations, and orchestrating semantic search/LLM data pipelines.
+I am a **Senior Full-Stack Developer** with over 5 years of experience building modern web applications, scalable cloud architectures, and production-grade AI-driven systems[cite: 3]. [cite_start]I specialize in the MERN stack [cite: 50][cite_start], robust cloud integrations [cite: 4][cite_start], and orchestrating semantic search/LLM data pipelines[cite: 41, 42].
 
 * [cite_start]🏢 **Current Role:** Lead Software Developer [cite: 48]
 * [cite_start]🛠️ **Core Focus:** Building high-performance software and integrating generative AI tools into production ecosystems[cite: 3, 52].
@@ -42,9 +42,9 @@ I am a **Senior Full-Stack Software Engineer** with over 5 years of experience b
 
 ### 🛠️ Key Architectural Focus Areas
 
-* [cite_start]🤖 **Generative AI & LLMs:** Designing retrieval + LLM orchestration pipelines, tuning chunking strategies, and deploying safe, vector-search models to minimize hallucinations[cite: 24, 25, 26].
-* [cite_start]☁️ **Cloud & Infrastructure:** Experienced with Azure App Services, Azure Functions, AWS infrastructure execution, and configuring CI/CD automation pipelines[cite: 16, 17, 33].
-* [cite_start]🛒 **E-Commerce & Ecosystems:** Designing custom modular feature extensions, payment gateways (Stripe), and complex integration ecosystems[cite: 10, 13, 16].
+* [cite_start]🤖 **Generative AI & LLMs:** Designing retrieval + LLM orchestration pipelines [cite: 24][cite_start], tuning chunking strategies [cite: 26][cite_start], and deploying safe, vector-search models to minimize hallucinations[cite: 25, 41].
+* [cite_start]☁️ **Cloud & Infrastructure:** Experienced with Azure App Services [cite: 33][cite_start], Azure Functions [cite: 16][cite_start], AWS infrastructure execution [cite: 4, 13][cite_start], and configuring CI/CD automation pipelines[cite: 17].
+* [cite_start]🛒 **E-Commerce & Ecosystems:** Designing custom modular feature extensions [cite: 10][cite_start], payment gateways (Stripe) [cite: 16][cite_start], and complex integration ecosystems[cite: 13].
 
 ---
 
@@ -59,4 +59,4 @@ I am a **Senior Full-Stack Software Engineer** with over 5 years of experience b
 ### 📫 Let's Connect!
 
 * **LinkedIn:** [jayant-uthale-753545190](https://www.linkedin.com/in/jayant-uthale-753545190/)
-* **Email:** [jayantuthale24@gmail.com](mailto:jayantuthale24@gmail.com)
+* [cite_start]**Email:** [jayantuthale24@gmail.com](mailto:jayantuthale24@gmail.com) [cite: 28]
